@@ -1,1 +1,1 @@
-# coding-class
+# SAtemplate
